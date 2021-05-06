@@ -1,0 +1,44 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2 {
+    background-color: darkgray;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    margin: 0px;
+    color: midnightblue;
+    line-height: 50px;
+}
+#fotoPerfil {
+    width: 25%;
+    height: 25%;
+    margin: 20px;
+}
+header {
+    margin: 0;
+    text-align: center;
+    background-color: lightgrey;
+}
+h2 {
+    color: rgb(90, 9, 9);
+    margin: 40px 0 0 0;
+    width: 70%;
+}
+footer {
+    background-color: midnightblue;
+    text-align: center;
+    padding: 12px 0px 12px 0px ;
+}
+#instagram, #linkedin{
+    height: 30px;
+    width: 30px;
+}
+section {
+    padding-left: 25%;
+}
+.byi {
+    font-weight: bold;
+    
+}
